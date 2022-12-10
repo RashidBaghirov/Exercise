@@ -1,0 +1,15 @@
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\bin\Debug\net6.0\NewHomeWork.exe
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\bin\Debug\net6.0\NewHomeWork.deps.json
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\bin\Debug\net6.0\NewHomeWork.runtimeconfig.json
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\bin\Debug\net6.0\NewHomeWork.dll
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\bin\Debug\net6.0\NewHomeWork.pdb
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\NewHomeWork.csproj.AssemblyReference.cache
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\NewHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\NewHomeWork.AssemblyInfoInputs.cache
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\NewHomeWork.AssemblyInfo.cs
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\NewHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\NewHomeWork.dll
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\refint\NewHomeWork.dll
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\NewHomeWork.pdb
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\NewHomeWork.genruntimeconfig.cache
+C:\Users\99450\source\repos\NewHomeWork\NewHomeWork\obj\Debug\net6.0\ref\NewHomeWork.dll
